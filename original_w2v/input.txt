@@ -1,4 +1,3 @@
-: newspapers
 Albuquerque Albuquerque_Journal Baltimore Baltimore_Sun
 Albuquerque Albuquerque_Journal Boston Boston_Globe
 Albuquerque Albuquerque_Journal Cincinnati Cincinnati_Enquirer
